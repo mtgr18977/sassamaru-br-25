@@ -1,0 +1,84 @@
+mandante,visitante,resultado,gols_mandante,gols_visitante
+Cruzeiro,Mirassol,Vitoria_mandante,2,1
+Fortaleza,Fluminense,Vitoria_mandante,2,0
+gremio,CAM,Vitoria_mandante,2,1
+Juventude,Vitoria,Vitoria_mandante,2,0
+Sao Paulo,Sport,Empate,0,0
+flamengo,internacional,Empate,1,1
+Palmeiras,Botafogo,Empate,0,0
+Vasco,Santo,Vitoria_mandante,2,1
+Bahia,Corinthians,Empate,1,1
+Bragantino,Ceara,Empate,2,2
+Ceara,gremio,Vitoria_mandante,2,0
+Corinthians,Vasco,Vitoria_mandante,3,0
+Botafogo,Juventude,Vitoria_mandante,2,0
+CAM,Sao Paulo,Empate,0,0
+Fluminense,Bragantino,Vitoria_mandante,2,1
+internacional,Cruzeiro,Vitoria_mandante,3,0
+Mirassol,Fortaleza,Empate,1,1
+Sport,Palmeiras,Vitoria_visitante,1,2
+Vitoria,flamengo,Vitoria_visitante,1,2
+Santo,Bahia,Empate,2,2
+Fortaleza,internacional,Empate,0,0
+Fluminense,Santo,Vitoria_mandante,1,0
+CAM,Vitoria,Empate,2,2
+Bahia,Mirassol,Empate,1,1
+gremio,flamengo,Vitoria_visitante,0,2
+Sao Paulo,Cruzeiro,Empate,1,1
+Vasco,Sport,Vitoria_mandante,3,1
+Palmeiras,Corinthians,Vitoria_mandante,2,0
+Bragantino,Botafogo,Vitoria_mandante,1,0
+Juventude,Ceara,Vitoria_mandante,2,1
+Vitoria,Fortaleza,Vitoria_mandante,2,1
+flamengo,Juventude,Vitoria_mandante,6,0
+Santo,CAM,Vitoria_mandante,2,0
+Mirassol,gremio,Vitoria_mandante,4,1
+Botafogo,Sao Paulo,Empate,2,2
+Sport,Bragantino,Vitoria_visitante,0,1
+Ceara,Vasco,Vitoria_mandante,2,1
+Bahia,Ceara,Vitoria_mandante,1,0
+Bragantino,Cruzeiro,Vitoria_mandante,1,0
+Fortaleza,Palmeiras,Vitoria_visitante,1,2
+Fluminense,Vitoria,Empate,1,1
+Sao Paulo,Santo,Vitoria_mandante,2,1
+CAM,Botafogo,Vitoria_mandante,1,0
+Juventude,Mirassol,Empate,2,2
+gremio,internacional,Empate,1,1
+Vasco,flamengo,Empate,0,0
+Corinthians,Sport,Vitoria_mandante,2,1
+Santo,Bragantino,Vitoria_visitante,1,2
+Vitoria,gremio,Empate,1,1
+Palmeiras,Bahia,Vitoria_visitante,0,1
+Cruzeiro,Vasco,Vitoria_mandante,1,0
+flamengo,Corinthians,Vitoria_mandante,4,0
+Ceara,Sao Paulo,Empate,1,1
+Botafogo,Fluminense,Vitoria_mandante,2,0
+Sport,Fortaleza,Empate,0,0
+Mirassol,CAM,Empate,2,2
+internacional,Juventude,Vitoria_mandante,3,1
+Santo,Ceara,Empate,0,0
+Botafogo,internacional,Vitoria_mandante,4,0
+CAM,Fluminense,Vitoria_mandante,3,2
+Palmeiras,Sao Paulo,Vitoria_mandante,1,0
+Sport,Cruzeiro,Vitoria_visitante,0,4
+flamengo,Bahia,Vitoria_mandante,1,0
+Vitoria,Vasco,Vitoria_mandante,2,1
+flamengo,Bahia,Vitoria_mandante,1,0
+Cruzeiro,CAM,Empate,0,0
+internacional,Mirassol,Empate,1,1
+flamengo,Botafogo,Empate,0,0
+Bragantino,Palmeiras,Vitoria_visitante,1,2
+Corinthians,Santo,Vitoria_mandante,1,0
+Bahia,Vitoria,Vitoria_mandante,2,1
+Juventude,Fluminense,Empate,1,1
+Sao Paulo,gremio,Vitoria_mandante,2,1
+Vasco,Fortaleza,Vitoria_mandante,3,0
+Ceara,Sport,Vitoria_mandante,2,0
+Fluminense,Vasco,Vitoria_mandante,2,1
+Sao Paulo,Mirassol,Vitoria_visitante,0,2
+CAM,Corinthians,Empate,0,0
+gremio,Bahia,Vitoria_mandante,1,0
+Palmeiras,flamengo,Vitoria_visitante,0,2
+Sport,internacional,Empate,1,1
+Vitoria,Santo,Vitoria_visitante,0,1
+Fortaleza,Cruzeiro,Vitoria_visitante,0,2
