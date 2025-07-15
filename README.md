@@ -54,10 +54,6 @@ Se perceber que o modelo está favorecendo demais o mandante ou visitante, ajust
 - `ELO_VANTAGEM_CASA_PADRAO`: Vantagem padrão do mandante (recomendo entre 0 e 80).
 - `ELO_INFLUENCE`: Influência do Elo no ajuste dos gols esperados (recomendo entre 0.05 e 0.35).
 
-## 📄 Licença
-
-[Adicione aqui a licença do seu projeto, se aplicável.]
-
 ---
 
 ## TODO
